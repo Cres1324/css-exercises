@@ -1,0 +1,16 @@
+p {
+    background-color:rgb(232, 192, 192);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+#No2 {
+    color:rgb(0,0,255);
+    font-size: 36px;
+}
+.No3 {
+    font-size: 24px;
+}
+#No4 {
+    background-color: rgb(137, 247, 137);
+    font-weight: bold;
+    font-size: 36px;
+}
